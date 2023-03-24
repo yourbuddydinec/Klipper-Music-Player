@@ -4,7 +4,8 @@ Just run the following in ssh to install
 
 ```
 sudo apt update
-sudo apt install espeak aplay
+sudo apt install espeak
+sudo apt install aplay
 ```
 After you just need to include audio.cfg in your printer.cfg file and then add your audio to 
 ```
