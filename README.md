@@ -12,3 +12,5 @@ After you just need to include audio.cfg in your printer.cfg file and then add y
 /home/<username>/printer_data/audio
 ```
 Then just edit the file as needed to include your audio. Its designed to play random songs from a list but if you set the default to 1 it will only play 1.
+
+[Also check out my Klipper Mainsail Themes!](https://github.com/yourbuddydinec/Mainsail-Themes)
